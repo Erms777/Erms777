@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Erms777
-- 👀 I’m interested in Front End
+- 👀 I’m interested in Front End Jobs
 - 🌱 I’m currently learning JavaScript and ReactJs
 - 📫 How to reach me: eson395@gmail.com
 
